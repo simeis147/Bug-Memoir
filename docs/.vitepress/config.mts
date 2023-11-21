@@ -7,7 +7,7 @@ export default defineConfig({
   description: "BUG 回忆录",
   lastUpdated: true,
 
-  base: "/bug-memoir/",
+  base: "/Bug-memoir/",
 
   themeConfig: {
 
