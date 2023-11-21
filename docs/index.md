@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /markdown-examples
+      link: /question/README
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 在 Github 上查看源码
+      link: https://github.com/simeis147/Bug-Memoir
 
 features:
   - icon: ⚡️
